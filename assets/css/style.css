@@ -129,7 +129,7 @@ img{
         justify-content: flex-end;
         top:var(--header-height);
         right: -100%;
-        width: 50%;
+        width: 80%;
         height: 100%;
         padding: 2rem;
         background-color: var(--second-color);
